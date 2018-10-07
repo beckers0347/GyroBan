@@ -1,0 +1,9 @@
+name: GyroBan
+version: 0.1.b
+author: Kay0sX
+main: me.KayosX.GyroBan
+
+commands:
+	ban:
+		aliases:
+		description: Ban that displays a custom message to the user
